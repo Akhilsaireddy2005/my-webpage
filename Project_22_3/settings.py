@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-#uqoleek2(bdk4+ep%xg8si-c&l34)f%31jbw%7618=l3j)%&z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['akhil12.onrender.com','127.0.0.1']
+ALLOWED_HOSTS = ['akhil23.onrender.com','127.0.0.1']
 
 
 # Application definition
